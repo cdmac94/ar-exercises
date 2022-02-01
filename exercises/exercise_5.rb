@@ -5,7 +5,7 @@ require_relative './exercise_3'
 require_relative './exercise_4'
 
 puts "Exercise 5"
-puts "----------"
+puts "-----------"
 
 # Your code goes here ...
 @total_revenue = Store.sum(:annual_revenue)
